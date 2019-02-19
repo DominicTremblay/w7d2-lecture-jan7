@@ -31,8 +31,9 @@ puts '---------- Adding Albums With user_id ----------'
   
 puts '---------- Adding Albums With the Relationship ----------'
   
-puts '---------- Adding Tracks to Each Album ----------'
+puts '---------- Adding Tracks to Album ----------'
   
+
 puts '---------- Adding Tags ----------'
   
 puts '---------- Adding Artists_Tags ----------'
